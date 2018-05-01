@@ -1,0 +1,13 @@
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\bin\Debug\RFTagSystemApp.exe.config
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\bin\Debug\RFTagSystemApp.exe
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\bin\Debug\RFTagSystemApp.pdb
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.MainCtrlForm.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.Properties.Resources.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.RFTagControl.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.Test.UartProtocolTest.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.TransmitControl.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.UsartControl.resources
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemAppTest.csproj.GenerateResource.Cache
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.exe
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemApp.pdb
+E:\Coding\VS2015\RFTagSystemPrj\RFTagSystemAppTest\RFTagSystemApp\obj\Debug\RFTagSystemAppTest.csprojResolveAssemblyReference.cache
